@@ -1,6 +1,6 @@
 label: "Digital Marketing"
 
-connection: "looker-private-demo"
+connection: "rob_argolis"
 
 include: "*/*.view.lkml"         # include all views in this project
 include: "dashboards/*.dashboard.lookml"  # include all dashboards in this project
