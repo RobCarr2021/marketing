@@ -1,5 +1,5 @@
 - dashboard: campaign_performance_lookup
-  title: Campaign Performance Lookup
+  title: Campaign Performance Lookup TEST JOEY
   layout: newspaper
   preferred_viewer: dashboards-next
   query_timezone: user_timezone
